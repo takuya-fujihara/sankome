@@ -12,6 +12,7 @@
 		23B1B335238C132E00188126 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23B1B333238C132E00188126 /* Main.storyboard */; };
 		23B1B337238C132F00188126 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23B1B336238C132F00188126 /* Assets.xcassets */; };
 		23B1B33A238C132F00188126 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23B1B338238C132F00188126 /* LaunchScreen.storyboard */; };
+		23B1B342238C142200188126 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23B1B341238C142200188126 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		23B1B336238C132F00188126 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		23B1B339238C132F00188126 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		23B1B33B238C132F00188126 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		23B1B341238C142200188126 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				23B1B32F238C132E00188126 /* AppDelegate.swift */,
 				23B1B331238C132E00188126 /* ViewController.swift */,
 				23B1B333238C132E00188126 /* Main.storyboard */,
+				23B1B341238C142200188126 /* ResultViewController.swift */,
 				23B1B336238C132F00188126 /* Assets.xcassets */,
 				23B1B338238C132F00188126 /* LaunchScreen.storyboard */,
 				23B1B33B238C132F00188126 /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				23B1B332238C132E00188126 /* ViewController.swift in Sources */,
 				23B1B330238C132E00188126 /* AppDelegate.swift in Sources */,
+				23B1B342238C142200188126 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
