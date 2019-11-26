@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var text: UITextField!
     override func viewDidLoad() {
         super.viewDidLoad()
     }
@@ -18,7 +19,7 @@ class ViewController: UIViewController {
             
     let resultViewController:ResultViewController=segue.destination as! ResultViewController
             
-    resultViewController.name="テック"
+    resultViewController.name=text.text!
             
    
     }
