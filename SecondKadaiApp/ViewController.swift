@@ -18,7 +18,7 @@ class ViewController: UIViewController {
             
     let resultViewController:ResultViewController=segue.destination as! ResultViewController
             
-    resultViewController.name="0"
+    resultViewController.name="テック"
             
         }
     
