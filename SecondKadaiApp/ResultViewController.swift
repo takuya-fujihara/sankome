@@ -14,6 +14,7 @@ class ResultViewController: UIViewController {
     
     var name:String="テック"
     
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
