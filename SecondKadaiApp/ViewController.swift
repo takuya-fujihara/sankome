@@ -20,7 +20,7 @@ class ViewController: UIViewController {
             
     resultViewController.name="テック"
             
-        }
+    }
     
     
 

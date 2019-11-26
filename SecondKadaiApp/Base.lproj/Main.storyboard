@@ -84,7 +84,6 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="8az-wv-MdK" firstAttribute="top" secondItem="dsO-He-pQO" secondAttribute="bottom" constant="30" id="JQm-QR-gFq"/>
-                            <constraint firstItem="dsO-He-pQO" firstAttribute="top" secondItem="TQB-Lq-GPx" secondAttribute="top" constant="50" id="S0K-GT-JMp"/>
                             <constraint firstItem="dsO-He-pQO" firstAttribute="leading" secondItem="TQB-Lq-GPx" secondAttribute="leading" constant="40" id="Vim-dy-aSg"/>
                             <constraint firstItem="TQB-Lq-GPx" firstAttribute="trailing" secondItem="dsO-He-pQO" secondAttribute="trailing" constant="40" id="WAs-rW-A83"/>
                             <constraint firstItem="TQB-Lq-GPx" firstAttribute="trailing" secondItem="8az-wv-MdK" secondAttribute="trailing" constant="84" id="WaG-AU-KWU"/>

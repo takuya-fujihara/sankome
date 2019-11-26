@@ -19,6 +19,7 @@ class ResultViewController: UIViewController {
 
         // Do any additional setup after loading the view.
    let result="テック"
+        
         label.text="こんにちは\(result)さん"
     }
     
